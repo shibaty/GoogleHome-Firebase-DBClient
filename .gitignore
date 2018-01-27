@@ -1,4 +1,6 @@
+.vscode
 src/config.ts
+lib
 
 # Logs
 logs

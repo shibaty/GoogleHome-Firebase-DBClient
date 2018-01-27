@@ -6,3 +6,5 @@ export const config = {
     storageBucket: "",
     messagingSenderId: ""
 };
+
+export const url = "";
